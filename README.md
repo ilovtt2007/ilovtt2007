@@ -1,6 +1,6 @@
-# 김도현
+# 송선우
 
-### Computer Science · Information Security · Information Management
+### AISW
 
 컴퓨터 과학을 기반으로 정보보안과 정보관리 분야를 공부하고 있습니다.
 
