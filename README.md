@@ -1,44 +1,41 @@
 # 송선우
 
-### AISW
+### AI · Software 
 
-컴퓨터 과학을 기반으로 정보보안과 정보관리 분야를 공부하고 있습니다.
+컴퓨터와 인공지능 소프트웨어를 공부하며
+**문제를 발견하고, 이를 코드와 기술로 해결하는 과정**에 관심이 있습니다.
 
-기술 자체를 구현하는 것뿐만 아니라, **데이터와 정보가 어떻게 생성되고 관리되며 안전하게 활용되는지**에 관심이 있습니다.
-현재 프로그래밍과 컴퓨터 시스템에 대한 기초를 다지고 있으며, 이를 바탕으로 안전하고 효율적인 정보 시스템을 설계하는 것을 목표로 하고 있습니다.
+현재 AISW 계열에서 프로그래밍과 컴퓨터 과학의 기초를 학습하고 있으며,
+인공지능 기술을 실제 소프트웨어와 서비스에 적용할 수 있는 개발자로 성장하는 것을 목표로 하고 있습니다.
 
 ---
 
-## 소개
+## About Me
 
-저는 **컴퓨터공학,*정보보안,*&#xC815;보관리**를 중심으로 공부하고 있는 학생입니다.
+저는 **AI와 Software를 함께 공부하는 AISW 계열 학생**입니다.
 
-프로그래밍 언어와 자료구조, 데이터베이스 등 컴퓨터 과학의 기초를 학습하는 동시에 네트워크와 운영체제, 보안 기술에 관심을 가지고 공부하고 있습니다.
+프로그래밍 언어와 알고리즘 같은 컴퓨터 과학의 기본기를 바탕으로
+인공지능, 데이터, 소프트웨어 개발 분야로 관심을 확장하고 있습니다.
 
-특히 단순히 새로운 기술을 사용하는 것보다,
+새로운 기술을 단순히 사용하는 것보다
+**기술이 어떤 원리로 작동하는지 이해하고 직접 구현해보는 것**을 중요하게 생각합니다.
 
-> **“이*시스템은*어떻게 동작하며, 어떻게 더 안전하고 효율적으로 만들 수 있는가?”**
-
-라는 관점에서 문제를 바라보려고 합니다.
+현재는 작은 프로젝트와 실습을 통해 배운 내용을 실제 코드로 옮기는 경험을 쌓고 있습니다.
 
 ---
 
 ## Education
 
-**[대학교명]**
-컴퓨터·정보보안·정보관리 전공
-20XX — 현재
+**한신대학교**
+AI·SW 계열생
 
 ### 주요 학습 분야
 
-* 컴퓨터 프로그래밍
+* 프로그래밍
+* 컴퓨터 과학 기초
 * 자료구조 및 알고리즘
-* 데이터베이스
-* 컴퓨터 네트워크
-* 운영체제
-* 정보보안
-* 정보시스템
-* 데이터 관리
+* 인공지능
+* 데이터 분석
 
 ---
 
@@ -48,124 +45,122 @@
 
 `Python` `C` `Java`
 
-### Computer Science
+### AI & Data
 
-`Data Structures` `Algorithms` `Operating Systems` `Computer Networks`
+`Machine Learning` `Data Analysis` `NumPy` `Pandas`
 
-### Security
+### Software Development
 
-`Network Security` `System Security` `Cryptography` `Web Security`
+`Git` `GitHub` `VS Code` `Linux`
 
-### Data & Information Management
+### Currently Learning
 
-`SQL` `Database` `Data Modeling` `Information Systems`
+`웹프로그래밍` `문제해결형 프로그래밍` 
 
-### Tools
-
-`Git` `GitHub` `Linux` `VS Code`
+> 기술 목록은 실제로 사용해본 기술을 중심으로 지속적으로 업데이트하고 있습니다.
 
 ---
 
-## Projects
+**주요 구현**
 
-### Secure File Management System
-
-사용자의 파일을 안전하게 저장하고 관리하기 위한 간단한 파일 관리 시스템을 구현했습니다.
-
-**주요 기능**
-
-* 사용자 인증 및 권한 관리
-* 파일 업로드 및 다운로드
-* 데이터 암호화
-* 접근 로그 기록
+* [기능 또는 문제 해결 방법]
+* [AI 모델 또는 알고리즘 활용]
+* [데이터 처리 및 분석]
+* [서비스 또는 프로그램 구현]
 
 **Technology**
 
-`Python` `SQLite` `Cryptography` `Linux`
+`Python` `Machine Learning` `[Framework]`
+
+[Repository](#) · [Demo](#)
+
+---
+
+**Technology**
+
+`[Language]` `[Framework]` `[Database]`
 
 [Repository](#)
 
 ---
 
-### Network Monitoring Project
+## Areas of Interest
 
-네트워크 환경에서 발생하는 트래픽을 분석하고 비정상적인 접근을 탐지하는 프로젝트입니다.
+현재 다음 분야에 관심을 가지고 공부하고 있습니다.
 
-**주요 학습 내용**
-
-* 네트워크 패킷 구조 분석
-* TCP/IP 통신 이해
-* 로그 데이터 수집 및 분석
-* 비정상적인 접근 패턴 탐색
-
-**Technology**
-
-`Python` `Wireshark` `Linux`
-
-[Repository](#)
-
----
-
-## Academic Interests
-
-현재 다음 분야를 중심으로 관심을 확장하고 있습니다.
-
-| 분야                     | 관심 주제                 |
-| ---------------------- | --------------------- |
-| Computer Science       | 자료구조, 알고리즘, 운영체제      |
-| Information Security   | 네트워크 보안, 시스템 보안, 암호학  |
-| Information Management | 데이터베이스, 정보시스템, 데이터 관리 |
-| Software Development   | 안정적이고 유지보수 가능한 시스템 설계 |
+| 분야                      | 관심 주제                   |
+| ----------------------- | ----------------------- |
+| Artificial Intelligence | 머신러닝, 생성형 AI, AI 응용     |
+| Software Engineering    | 프로그램 설계, 개발 방법론, 시스템 구현 |
+| Data                    | 데이터 분석, 데이터 처리, 시각화     |
+| Computer Science        | 자료구조, 알고리즘, 컴퓨터 시스템     |
+| HCI                     | 사용자 경험, 인간–컴퓨터 상호작용     |
 
 ---
 
 ## Learning
 
-현재는 컴퓨터 과학의 기초를 탄탄하게 다지는 것을 우선하고 있습니다.
+현재는 **컴퓨터 과학의 기초와 프로그래밍 역량을 탄탄하게 만드는 것**에 집중하고 있습니다.
 
-**현재 학습 중**
+### Currently Learning
 
-* Python / C 기반 프로그래밍
-* 자료구조와 알고리즘
-* SQL 및 데이터베이스
-* Linux 환경
-* 네트워크 기초
-* 정보보안 기초
+* Python / C 프로그래밍
+* 자료구조 및 알고리즘
+* Git / GitHub
+* 데이터 처리 및 분석
+* 인공지능 기초
 
-**향후 학습 예정**
+### Exploring
 
-* 시스템 프로그래밍
-* 웹 애플리케이션 보안
-* 클라우드 보안
-* 보안 자동화
-* 데이터 엔지니어링
+* Machine Learning
+* Generative AI
+* AI Application Development
+* Software Architecture
+* Human–Computer Interaction
+
+---
+
+## Development Philosophy
+
+> **기술을 배우는 것에서 끝나지 않고, 직접 만들어보며 이해한다.**
+
+새로운 기술을 학습할 때 단순히 문법이나 사용 방법을 익히는 것보다
+**왜 필요한 기술인지, 어떤 문제를 해결할 수 있는지, 실제로 어떻게 활용할 수 있는지**를 고민하려고 합니다.
+
+작은 프로젝트라도 직접 설계하고 구현하는 과정을 통해
+개발자로서의 문제 해결 능력을 꾸준히 쌓아가고 있습니다.
 
 ---
 
 ## Goals
 
-단기적으로는 컴퓨터 과학의 기본 원리를 정확하게 이해하고, 이를 실제 프로젝트에 적용할 수 있는 개발 역량을 갖추는 것을 목표로 하고 있습니다.
+### Short-term
 
-장기적으로는 **소프트웨어 개발과 정보보안을 함께 이해하는 엔지니어**로 성장하고 싶습니다.
+* 컴퓨터 과학 기초 역량 강화
+* 프로그래밍 및 알고리즘 실력 향상
+* 다양한 개인 프로젝트 경험
+* GitHub를 통한 개발 과정 기록
 
-특히 개발 단계에서부터 보안과 데이터 관리에 대한 관점을 고려하여,
-**안전성·효율성·확장성을 갖춘 정보 시스템을 설계하고 구현하는 것**을 목표로 합니다.
+### Long-term
+
+**AI와 Software Engineering을 함께 이해하는 개발자**로 성장하는 것을 목표로 합니다.
+
+인공지능 기술을 단순히 활용하는 것을 넘어
+실제 사용자가 필요로 하는 서비스를 설계하고 구현할 수 있는
+**AI Software Developer**가 되고 싶습니다.
 
 ---
 
 ## Contact
 
 **Email**
-[이메일]
+ilovtt2007@naver.com
 
-**Blog / Portfolio**
-[링크]
-
-**LinkedIn**
-[링크]
 
 ---
 
 <p align="center">
-  <sub>Computer Science · Security · Information</sub>
+  AI · Software · Data
+  <br>
+  <sub>Learn · Build · Iterate</sub>
 </p>
